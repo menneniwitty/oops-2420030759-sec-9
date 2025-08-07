@@ -26,6 +26,7 @@ public class controlstatements4 {
     	break;
     case 5:
     	System.out.println("Thursday");
+	break;
     case 6:
     	System.out.println("Friday");
     	break;
@@ -40,3 +41,4 @@ public class controlstatements4 {
 	}
 
 }
+
